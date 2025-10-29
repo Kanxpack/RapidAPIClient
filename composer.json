@@ -5,9 +5,6 @@
     "require": {
         "kanxpack/curlget": "^1.0"
     },
-    "require-dev": {
-        "kanxpack/curlget": "^1.0"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -16,8 +13,7 @@
     },
     "authors": [
         {
-            "name": "Marco Monteiro",
-            "email": "kanxuk@gmail.com"
+            "name": "Marco Monteiro"
         }
     ],
     "minimum-stability": "stable"
