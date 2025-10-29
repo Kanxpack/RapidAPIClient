@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "08a650aaa1c14e8daa8037081a9bd4df",
+    "packages": [
+        {
+            "name": "kanxpack/curlget",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Kanxpack/CurlGet.git",
+                "reference": "394d6b1819625c78518b1c06e40345e17c42a26c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Kanxpack/CurlGet/zipball/394d6b1819625c78518b1c06e40345e17c42a26c",
+                "reference": "394d6b1819625c78518b1c06e40345e17c42a26c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Kanxpack\\CurlGet\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Marco Monteiro"
+                }
+            ],
+            "description": "Simple PHP cUrl Get API",
+            "support": {
+                "issues": "https://github.com/Kanxpack/CurlGet/issues",
+                "source": "https://github.com/Kanxpack/CurlGet/tree/v1.0.2"
+            },
+            "time": "2025-10-24T16:23:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "kanxpack/rapidapiclient",
+    "description": "A simple Rapidapi.com API client in PHP",
+    "type": "library",
+    "require": {
+        "kanxpack/curlget": "^1.0"
+    },
+    "require-dev": {
+        "kanxpack/curlget": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kanxpack\\RapidAPIClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marco Monteiro",
+            "email": "kanxuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
